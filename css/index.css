@@ -1,12 +1,16 @@
 body{
     background-color: dimgray;
+    text-align: center;
     
 }
 
-.h1{
+h1{
     color: rgb(25, 25, 194);
+   
 }
 
-.h2{
+h2{
     color: chartreuse;
+   
+    
 }
